@@ -1,4 +1,6 @@
 <template>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9244747832525437"
+     crossorigin="anonymous"></script>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="About Us"
