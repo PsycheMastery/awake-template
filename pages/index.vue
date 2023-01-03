@@ -1,4 +1,6 @@
 <template>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9244747832525437"
+     crossorigin="anonymous"></script>
   <div id="home-page" class="page-wrapper home-page">
     <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
       <button
